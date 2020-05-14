@@ -1,9 +1,4 @@
-module.exports = function () {
-    return { 
-        products: [
-            { id: 1, name: "Рисуем мир вокруг нас", category: "Основы рисования", description: "Искусое.", price: 250,
-                picture: "https://www.auchan.ru/pokupki/media/catalog/product/cache/1/image/774x585/040ec09b1e35df139433887a97daa66f/4/0/404643.jpg"},
+           { id: 1, name: "Рисуем мир вокруг нас", category: "Основы рисования", description: "Искусое.", price: 250,
+                picture: "jpg"},
           
-        orders: []
-    }
-}
+      
